@@ -1,0 +1,50 @@
+.footer {
+    width: 100%;
+    height: 400px;
+    background-color: black;
+    padding: 25px 100px;
+    padding-right: 200px;
+    font-size: 36px;
+}
+
+ul {
+    list-style: none;
+}
+
+.social-icons {
+    width: 80px;
+    height: 80px;
+}
+
+#social {
+    background-color: var(--color-marca);
+    border-radius: 20px;
+    padding: 5px 30px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+.tit-footer {
+    width: 280px;
+}
+
+.sobre {
+    color: var(--color-low-opacity);
+    width: 350px;
+    font-size: 23px;
+}
+
+.sobre-tit {
+    margin-left: 35px;
+}
+
+.copy {
+    width: 100%;
+    height: 100px;
+    background-color: var(--color-marca);
+    padding: 32px 85px;
+}
+
+.texto {
+    font-size: 23px;
+}

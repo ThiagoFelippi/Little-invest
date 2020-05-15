@@ -1,0 +1,25 @@
+:root{
+    --color-marca: #4455DD;
+    --color-low-opacity: #707070;
+}
+
+.btn-personalizado{
+    background-color: var(--color-marca);
+    color: white;
+    border-radius: 10px;
+    width: 110px;
+    height: 40px;
+}
+
+.btn-personalizado:hover{
+    color: #c4c4c4;
+}
+
+.btn-contato{
+    margin-top: 35px;
+    width: 220px;
+    height: 60px;
+    font-size: 23px;
+    background-color: var(--color-marca);
+    color: white;
+}

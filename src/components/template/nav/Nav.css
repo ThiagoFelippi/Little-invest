@@ -1,0 +1,26 @@
+.nav-personalizada{
+    height: 70px;
+    width: 100%;
+    background-color: #E9E9E9;
+    display: flex;
+    justify-content: space-between;
+}
+
+ul li a.item-personalizado{
+    font-size: 22px;
+    color: var(--color-low-opacity);
+}
+
+.ul-personalizada{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 70px;
+}
+
+.logo{
+    width: 160px;
+    height: 35px;
+    margin-left: 20px;
+}

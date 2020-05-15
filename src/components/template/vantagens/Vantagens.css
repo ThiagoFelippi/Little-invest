@@ -1,0 +1,23 @@
+.vantagens{
+    padding: 75px 55px;
+}
+
+.vantagem{
+    margin: 15px;
+    width: 370px;
+    height: 350px;
+}
+
+.vantagens-title{
+    font-size: 26px;
+    color: black;
+}
+
+.vantagens-text{
+    font-size: 20px;
+    color: var(--color-low-opacity);
+}
+
+.btn-contato:hover{
+    color: #c4c4c4;
+}

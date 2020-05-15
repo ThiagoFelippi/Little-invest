@@ -1,0 +1,18 @@
+form input.inputs{
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid rgb(73, 73, 73);
+    width: 300px;
+}
+
+label{
+    margin-top: 15px;
+}
+
+.section-content{
+    padding: 70px 160px;
+}
+
+.helpDesk{
+    height: 400px;
+}
